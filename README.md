@@ -6,9 +6,6 @@ During this project, you will analyze, prepare, and plot data in order to answer
 
 After you perform your analysis, you’ll be creating a blog post to share your findings on the World Health Organization website.
 
-Example Project
-Life Expectancy and GDP Example Project
-
 Project Objectives:
 Complete a project to add to your portfolio
 Use seaborn and Matplotlib to create visualizations
