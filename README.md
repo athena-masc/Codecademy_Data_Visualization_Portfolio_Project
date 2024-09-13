@@ -10,7 +10,8 @@ Project Objectives:\n
 Complete a project to add to your portfolio\n
 Use seaborn and Matplotlib to create visualizations\n
 Become familiar with presenting and sharing data visualizations\n
-Preprocess, explore, and analyze data\n\n
+Preprocess, explore, and analyze data
+
 Prerequisites:\n
 Data Acquisition\n
 Data Visualization\n
